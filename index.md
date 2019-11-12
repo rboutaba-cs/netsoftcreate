@@ -29,8 +29,6 @@ Network softwarization will revolutionize how network and computing infrastructu
 - Milad Ghaznavi (PhD Student)
 
 ## Sponsors and Partners
-|![ETS](assets/ets-logo.png)|![Laval](assets/ulaval-logo.png)|![UofT](assets/uoft-logo.png)|![Bell Canada](assets/bell-logo.png)|![Ciena](assets/ciena-logo.png =200x)|
-|:--:|:--:|:--:|:--:|:--:|
-|<img src="assets/ets-logo.png" alt="ETS" width="16%"/> | <img src="assets/ulaval-logo.png" alt="Laval University" width="16%"/> | <img src="assets/uoft-logo.png" alt="University of Toronto" width="16%"/> | <img src="assets/bell-logo.png" alt="Bell Canada" width="12%"/>   | <img src="assets/ciena-logo.png" alt="Ciena" width="16%"/>
+|<img src="assets/ets-logo.png" alt="ETS" width="50%"/> | <img src="assets/ulaval-logo.png" alt="Laval University" width="50%"/> | <img src="assets/uoft-logo.png" alt="University of Toronto" width="50%"/> | <img src="assets/bell-logo.png" alt="Bell Canada" width="40%"/>   | <img src="assets/ciena-logo.png" alt="Ciena" width="30%"/>
 |:--:|:--:|:--:|:--:|:--:|
 |<img src="assets/ericsson-logo.png" alt="Ericsson Canada" width="16%"/> | <img src="assets/ibm-logo.png" alt="IBM Canada" width="16%"/> |<img src="assets/inbay-logo.png" alt="InBay" width="16%"/> | <img src="assets/synersol-logo.png" alt="Syner Solutions" width="16%"/> |  <img src="assets/telus-logo.png" alt="Telus" width="16%"/>|
