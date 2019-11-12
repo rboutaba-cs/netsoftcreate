@@ -21,13 +21,6 @@ Network softwarization will revolutionize how network and computing infrastructu
 - E. Jalalpour, M. Ghaznavi, D. Migault, S. Preda, M. Pourzandi, R. Boutaba. A Security Orchestration System for CDN Edge Servers. IEEE Conference on Network Softwarization (NetSoft). Montreal, Canada, June 25-29, 2018  ([Paper](http://rboutaba.cs.uwaterloo.ca/Papers/Conferences/2018/JalalpourNETSOFT18.pdf), [Slides](http://rboutaba.cs.uwaterloo.ca/Papers/Conferences/2018/JalalpourNETSOFT18Slides.pdf)).
 - S. Ayoubi, S.R. Chowdhury, R. Boutaba. Breaking Service Function Chains with Khaleesi. IFIP Networking 2018. Zurich, Switzerland, May 14-16, 2018 ([Paper](http://rboutaba.cs.uwaterloo.ca/Papers/Conferences/2018/AyoubiNETWORKING18.pdf), [Slides](http://rboutaba.cs.uwaterloo.ca/Papers/Conferences/2018/AyoubiNETWORKING18Slides.pdf)).
 
-## University of Waterloo Team
-
-- Raouf Boutaba (Co-investigator)
-- Md. Faizul Bari (Postdoctoral Fellow)
-- Nashid Shahriar (PhD Student)
-- Shihabur Rahman Chowdhury (PhD Student)
-- Milad Ghaznavi (PhD Student)
 
 ## Sponsors and Partners
 <img src="assets/ets-logo.png" alt="ETS" width="20%"/> &nbsp;&nbsp; <img src="assets/ulaval-logo.png" alt="Laval University" width="25%"/> &nbsp;&nbsp; <img src="assets/uoft-logo.png" alt="University of Toronto" width="30%"/> 
