@@ -29,7 +29,7 @@ Network softwarization will revolutionize how network and computing infrastructu
 - Milad Ghaznavi (PhD Student)
 
 ## Sponsors and Partners
-|![ETS](assets/ets-logo.png)|![Laval](assets/ulaval-logo.png)|![UofT](assets/uoft-logo.png)|![Bell Canada](assets/bell-logo.png)|![Ciena](assets/ciena-logo.png)|
+|![ETS](assets/ets-logo.png)|![Laval](assets/ulaval-logo.png)|![UofT](assets/uoft-logo.png)|![Bell Canada](assets/bell-logo.png)|![Ciena](assets/ciena-logo.png =200x)|
 |:--:|:--:|:--:|:--:|:--:|
 |<img src="assets/ets-logo.png" alt="ETS" width="16%"/> | <img src="assets/ulaval-logo.png" alt="Laval University" width="16%"/> | <img src="assets/uoft-logo.png" alt="University of Toronto" width="16%"/> | <img src="assets/bell-logo.png" alt="Bell Canada" width="12%"/>   | <img src="assets/ciena-logo.png" alt="Ciena" width="16%"/>
 |:--:|:--:|:--:|:--:|:--:|
