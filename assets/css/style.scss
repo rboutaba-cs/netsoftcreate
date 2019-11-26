@@ -2,6 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
+A:link { color: #880000;}
+A:visited { color:#880000}
+A:active { color: #880000}
+A:hover{font-weight:bold; color: #880000;}
+
 .wrapper {
   border-radius: 0;
   width: 1000px;
@@ -15,7 +20,7 @@ body {
 
 header {
   background:#000000;
-  boarder-radius: 0;
+  border-radius: 0;
   padding:10px 20px;
   boarder-bottom: 0;
   h1 {
@@ -27,4 +32,5 @@ header {
 section {
   text-align: justify;
   font-weight:500;
+  background: #FFFFFF;
 }
