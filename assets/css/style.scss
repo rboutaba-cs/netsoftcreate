@@ -34,8 +34,19 @@ header {
   }
 }
 
+ul {
+  text-align: left;
+  padding-left: 15px;
+  list-style-image: url(../assets/bullet_red.gif);
+  list-style-type: none;
+  font-size: 1em;
+  line-height: 1.1em;
+}
+
 section {
   text-align: justify;
   font-weight:500;
+  font-size: 13px;
+  line-height: 1.7;
   background: #FFFFFF;
 }
