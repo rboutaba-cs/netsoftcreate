@@ -23,6 +23,6 @@ Network softwarization will revolutionize how network and computing infrastructu
 
 
 ## Sponsors and Partners
-<img src="assets/ets-logo.png" alt="ETS" width="15%"/> &nbsp;&nbsp; <img src="assets/ulaval-logo.png" alt="Laval University" width="20%"/> &nbsp;&nbsp; <img src="assets/uoft-logo.png" alt="University of Toronto" width="20%"/> <img src="assets/nserc_logo.png" alt="NSERC" width="15%"/> <img src="assets/bell-logo.png" alt="Bell Canada" width="8%"/> &nbsp;&nbsp; 
+<img src="assets/ets-logo.png" alt="ETS" width="15%"/> &nbsp;&nbsp; <img src="assets/ulaval-logo.png" alt="Laval University" width="20%"/> &nbsp;&nbsp; <img src="assets/uoft-logo.png" alt="University of Toronto" width="23%"/> <img src="assets/nserc_logo.png" alt="NSERC" width="20%"/> <img src="assets/bell-logo.png" alt="Bell Canada" width="10%"/> &nbsp;&nbsp; 
 
-<img src="assets/ciena-logo.png" alt="Ciena" width="20%"/>  &nbsp;&nbsp; <img src="assets/ericsson-logo.png" alt="Ericsson Canada" width="20%"/> <img src="assets/ibm-logo.png" alt="IBM Canada" width="15%"/> &nbsp;&nbsp; <img src="assets/inbay-logo.png" alt="InBay" width="12%"/> &nbsp;&nbsp; <img src="assets/synersol-logo.png" alt="Syner Solutions" width="15%"/> &nbsp;&nbsp;  <img src="assets/telus-logo.png" alt="Telus" width="23%"/>
+<img src="assets/ciena-logo.png" alt="Ciena" width="15%"/>  &nbsp;&nbsp; <img src="assets/ericsson-logo.png" alt="Ericsson Canada" width="20%"/> <img src="assets/ibm-logo.png" alt="IBM Canada" width="12%"/> &nbsp;&nbsp; <img src="assets/inbay-logo.png" alt="InBay" width="12%"/> &nbsp;&nbsp; <img src="assets/synersol-logo.png" alt="Syner Solutions" width="15%"/> &nbsp;&nbsp;  <img src="assets/telus-logo.png" alt="Telus" width="20%"/>
