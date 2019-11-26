@@ -15,8 +15,12 @@ body {
 
 header {
   background:#000000;
+  boarder-radius: 0;
+  padding:10px 20px;
+  boarder-bottom: 0;
   h1 {
     color:#FFFFFF;
+    text-shadow: none;
   }
 }
 
