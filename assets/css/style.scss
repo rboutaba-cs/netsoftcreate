@@ -2,10 +2,19 @@
 ---
 
 @import "{{ site.theme }}";
+.wrapper {
+  border-radius: 0;
+  width: 1000px;
+  margin-top: 15px;
+}
+
+body {
+  padding: 15px;
+  background-color: #C0C0C0;
+}
 
 header {
   background:#000000;
-  background: linear_gradient(#222222, #000000);
   h1 {
     color:#FFFFFF;
   }
