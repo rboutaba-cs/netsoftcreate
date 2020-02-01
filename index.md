@@ -9,6 +9,8 @@ Network softwarization will revolutionize how network and computing infrastructu
 - **Acquisition of Soft Skills**: A program of short courses to develop strategic thinking and soft skills for success in industry and business.
 
 ## Related Publications
+- S. R. Chowdhury, A. Anthony, H. Bian, T. Bai, and R. Boutaba. A Disaggregated Packet Processing Architecture for Network Function Virtualization. IEEE Journal on Selected Areas in Communications - Series on Network Softwarization and Enablers. Accepted January 2020.
+- A. Alleg, T. Ahmed, M. Mosbah, and R. Boutaba. Joint Diversity and Redundancy for Resilient Service Chain Provisioning. IEEE Journal on Selected Areas in Communications - Series on Network Softwarization and Enablers. Accepted January 2020.
 - [![Paper](assets/pdflogo.gif){:height="18px" width="16px"}](http://rboutaba.cs.uwaterloo.ca/Papers/Journals/2019/BariTNSM19.pdf) M.F. Bari, S.R. Chowdhury, and R. Boutaba. ESSO: An Energy Smart Service Function Chain Orchestrator. IEEE Transactions on Network and Service Management. IEEE Press, Vol. 16(4), pp. 1345-1359, December 2019.
 - D. Harutyunyan, R. Fedrizzi , N. Shahriar, R. Boutaba, and R. Riggio. Orchestrating End-to-end Slices in 5G Networks. IEEE/ACM/IFIP Conference on Network and Service Management (CNSM). Halifax, Canada, October 21-25, 2019.
 - B. Henry, S.R. Chowdhury, A. Lahmadi, R. Azais, J. Francois, and R. Boutaba. SPONGE: Software-Defined Traffic Engineering to Absorb Influx of Network Traffic. IEEE Conference on Local Computer Networks (LCN). Osnabrück, Germany, October 14-17, 2019.
