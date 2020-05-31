@@ -9,7 +9,8 @@ Network softwarization will revolutionize how network and computing infrastructu
 - **Acquisition of Soft Skills**: A program of short courses to develop strategic thinking and soft skills for success in industry and business.
 
 ## Related Publications
-- S. R. Chowdhury, A. Anthony, H. Bian, T. Bai, and R. Boutaba. A Disaggregated Packet Processing Architecture for Network Function Virtualization. IEEE Journal on Selected Areas in Communications - Series on Network Softwarization and Enablers. Accepted January 2020.
+- M. Ghaznavi, E. Jalalpour, B. Wong, R. Boutaba, and A. J. Mashtizadeh. Fault-tolerant Service Function Chaining. ACM SIGCOMM 2020. New York City, NY, USA, August 10-14, 2020.
+- S. R. Chowdhury, A. Anthony, H. Bian, T. Bai, and R. Boutaba. A Disaggregated Packet Processing Architecture for Network Function Virtualization. IEEE Journal on Selected Areas in Communications - Series on Network Softwarization and Enablers. IEEE Press. Vol. 38(6), pp. 1075-1088, June 2020.
 - A. Alleg, T. Ahmed, M. Mosbah, and R. Boutaba. Joint Diversity and Redundancy for Resilient Service Chain Provisioning. IEEE Journal on Selected Areas in Communications - Series on Network Softwarization and Enablers. Accepted January 2020.
 - M. Ghaznavi, A. J. Mashtizadeh, B. Wong, and R. Boutaba. Towards a Geo-Distributed Deployment of Middleboxes. USENIX NSDI 2020. Santa Clara, CA, USA, February 25-27, 2020. Poster.
 - [![Paper](assets/pdflogo.gif){:height="18px" width="16px"}](http://rboutaba.cs.uwaterloo.ca/Papers/Journals/2019/BariTNSM19.pdf) M.F. Bari, S.R. Chowdhury, and R. Boutaba. ESSO: An Energy Smart Service Function Chain Orchestrator. IEEE Transactions on Network and Service Management. IEEE Press, Vol. 16(4), pp. 1345-1359, December 2019.
