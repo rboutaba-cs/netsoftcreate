@@ -9,6 +9,7 @@ Network softwarization will revolutionize how network and computing infrastructu
 - **Acquisition of Soft Skills**: A program of short courses to develop strategic thinking and soft skills for success in industry and business.
 
 ## Related Publications
+- A. Anthony, S. R. Chowdhury, T. Bai, R. Boutaba, J. Francois. Non-intrusive and Workflow-aware Virtual Network Function Scheduling in User-space. IEEE Transactions on Cloud Computing. Accepted September 2020.
 - M. Ghaznavi, E. Jalalpour, B. Wong, R. Boutaba, and A. J. Mashtizadeh. Fault-tolerant Service Function Chaining. ACM SIGCOMM 2020. New York City, NY, USA, August 10-14, 2020.
 - S. R. Chowdhury, A. Anthony, H. Bian, T. Bai, and R. Boutaba. A Disaggregated Packet Processing Architecture for Network Function Virtualization. IEEE Journal on Selected Areas in Communications - Series on Network Softwarization and Enablers. IEEE Press. Vol. 38(6), pp. 1075-1088, June 2020.
 - A. Alleg, T. Ahmed, M. Mosbah, and R. Boutaba. Joint Diversity and Redundancy for Resilient Service Chain Provisioning. IEEE Journal on Selected Areas in Communications - Series on Network Softwarization and Enablers. Accepted January 2020.
